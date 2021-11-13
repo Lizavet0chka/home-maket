@@ -71,12 +71,12 @@ ul{
     list-style-type: none;
 }
 .picture{
-    transition: 0.5s;
+    transition: 0.7s;
 }
 .picture:hover {
-    -webkit-transform: rotateZ(20deg);
-    -ms-transform: rotateZ(20deg);
-    transform: rotateZ(20deg);
+    -webkit-transform: rotateZ(360deg);
+    -ms-transform: rotateZ(360deg);
+    transform: rotateZ(360deg);
 }
 li{
     transition: 0.3s;
